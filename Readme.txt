@@ -1,0 +1,1 @@
+Osiel adiconando um "readme" conforme solicitado no comando da atividade.
